@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c4fc309-036d-4708-8b72-f36b3b8ce9b1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>F:\Лёша\Лабы по WEB\Lab 4\code\composer\composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="F:\Composer\composer.phar" interpreterId="fe26df17-a321-4179-80a3-6e44662d7b9b" />
+    </execution>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/code/composer/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/composer" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/google/apiclient" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/google/apiclient-services" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/code/composer/vendor/paragonie/constant_time_encoding" />
+    </include_path>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2frLBRzSqfvFLvVkidOh3xYBxvP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;credentialsType com.jetbrains.php.remote.interpreter.ui.PhpCreateRemoteSdkForm&quot;: &quot;Docker&quot;,
+    &quot;credentialsType com.jetbrains.php.remote.interpreter.ui.PhpInplaceEditRemoteSdkForm&quot;: &quot;Docker&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/php 8.3/php.ini&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.webide.settings.project.settings.php.composer&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Лёша\Лабы по WEB\Lab 4\code\composer" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-php-predefined-ba97393d7c68-6f8e3395a2b4-com.jetbrains.php.sharedIndexes-PS-233.14475.35" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c4fc309-036d-4708-8b72-f36b3b8ce9b1" name="Changes" comment="" />
+      <created>1714554113664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714554113664</updated>
+      <workItem from="1714554114804" duration="237000" />
+      <workItem from="1714554397207" duration="12871000" />
+      <workItem from="1714568476405" duration="288000" />
+      <workItem from="1714568817293" duration="260000" />
+      <workItem from="1714569128839" duration="3515000" />
+      <workItem from="1714572668876" duration="1466000" />
+      <workItem from="1714574913965" duration="1692000" />
+      <workItem from="1714655714666" duration="348000" />
+      <workItem from="1714664060311" duration="632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
